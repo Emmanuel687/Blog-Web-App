@@ -1,4 +1,3 @@
-Hello {{user.username}}
-            Welcome to Blogger
-            We have just seen you have signed up for our application and want to welcome you to the family. 
-            Enjoy the blogs and quotes displayed as you add your very own
+Hello {{user.author}},
+Welcome to pitch app
+We hope that the content you find on our website will be of use.
